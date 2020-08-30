@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   description = ""
 
 [[experience]]
-  title = "Visiting Professor"
+  title = "Profesor Visitante"
   company = "Universidad Rey Juan Carlos"
   company_url = "www.urjc.es"
   location = "Spain"
@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   description = ""
   
  [[experience]]
-   title = "Assistant Professor"
+   title = "Profesor Ayudante Doctor"
    company = "Universidad Rey Juan Carlos"
    company_url = "www.urjc.es"
    location = "Spain"
