@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Jesús Sánchez-Oro
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,31 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Universidad Rey Juan Carlos
+  url: "www.urjc.es"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am Assistant Professor at the Computer Science Department, being one of the senior researchers of the Group for Research on Algorithms For Optimization GRAFO.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Metaheuristics
+- Combinatorial Optimization
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Computer Sciece
+    institution: Universidad Rey Juan Carlos
+    year: 2016
+  - course: MEng in Computer Vision
+    institution: Universidad Rey Juan Carlos
+    year: 2011
+  - course: BSc in Computer Science
+    institution: Universidad Rey Juan Carlos
+    year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +43,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:jesus.sanchezoro@urjc.es'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/jesussanchezoro
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.es/citations?user=75j6oV8AAAAJ&hl=es
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/jesussanchezoro
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +69,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am Assistant Professor at the Computer Science Department, being one of the senior researchers of the Group for Research on Algorithms For Optimization GRAFO. I have published 24 papers in renowned journals such Information Sciences, Applied Soft Computing, or Computers & Operations Research, among others. Furthermore, I have presented my research in more than 30 national and international conferences. I have also coauthored a chapter in the well-known Handbook of Heuristics. My research is focused in applying metaheuristics for solving real-life hard combinatorial optimization problems.
